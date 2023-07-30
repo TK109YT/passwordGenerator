@@ -1,3 +1,5 @@
+# It's simple but effective 
+
 import random as rndm
 import colorama
 from colorama import Fore, init
@@ -5,7 +7,6 @@ from colorama import Fore, init
 init()
 
 red = Fore.RED
-lred = Fore.LIGHTRED_EX
 green = Fore.GREEN
 lgreen = Fore.LIGHTGREEN_EX
 yellow = Fore.YELLOW
